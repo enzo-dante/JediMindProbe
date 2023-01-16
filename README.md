@@ -1,4 +1,5 @@
 # PR Code Change Description:
+![appRunAfter](resources/jedi_mind_probe_script.gif)
 
 ### frontend
 
@@ -9,10 +10,11 @@
 1. extract sentiment of titles using NLP
 
 # QA Reminders:
-1. I used the Spyder python IDE via the Anaconda-Navigator application to write, test, & execute the jedi_mind_probe_script.py file.  
+1. I used the Spyder python IDE via the Anaconda-Navigator application to write, test, & execute the jedi_mind_probe_script.py file.
+2. running jedi_mind_probe_script_tests.py will take 3-4 min to complete due to VADER sentiment analysis of article titles.
 
 # Acceptance Criteria:
-1. write an MVP that extracts sentiment of a title based on a keyword 
+1. write an MVP that extracts sentiments of article titles based on a keyword 
 2. write a script that will export a clean excel file with new columns based on the sentiment analysis findings
 
 ### story reference:
@@ -21,8 +23,7 @@ https://github.com/enzo-dante/JediMindProbe
 # Build Tests:
 
 ### python unit_tests
-![testRun](resources/Montuno_testRun.gif)
-
+![testRun](resources/jedi_mind_probe_tests.gif)
 ### jest
 n/a
 
@@ -33,7 +34,7 @@ n/a
 n/a
 
 # After:
-![appRunAfter](resources/Montuno_appRunAfter.gif)
+![appRunAfter](resources/jedi_mind_probe_script.gif)
 
 # Kanban Board: 
 
