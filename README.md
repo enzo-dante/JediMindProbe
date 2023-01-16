@@ -1,3 +1,5 @@
+![vaderLogo](resources/vader-logo.svg)
+
 # PR Code Change Description:
 ![appRunAfter](resources/jedi_mind_probe_script.gif)
 
@@ -14,7 +16,7 @@
 2. running jedi_mind_probe_script_tests.py will take 3-4 min to complete due to VADER sentiment analysis of article titles.
 
 # Acceptance Criteria:
-1. write an MVP that extracts sentiments of article titles based on a keyword 
+1. write an MVP that extracts sentiments of article titles based on a keyword
 2. write a script that will export a clean excel file with new columns based on the sentiment analysis findings
 
 ### story reference:
@@ -31,12 +33,12 @@ n/a
 n/a
 
 # Before:
-n/a
+![appRunBefore](resources/jedi_mind_probe_script_before.gif)
 
 # After:
 ![appRunAfter](resources/jedi_mind_probe_script.gif)
 
-# Kanban Board: 
+# Kanban Board:
 
 ### TO-DO
 
